@@ -1,0 +1,14 @@
+{
+  "name": "@aegonplatform/vue-tradingview-widgets",
+  "version": "0.0.1",
+  "description": "Tradingview widgets collection for Vuejs",
+  "author": "Antério Vieira <anteriovieira@gmail.com>",
+  "main": "src/index.js",
+  "dependencies": {
+    "vue": "^2.6.10"
+  },
+  "engines": {
+    "node": ">= 10",
+    "npm": ">= 6"
+  }
+}
