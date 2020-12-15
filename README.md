@@ -3,3 +3,4 @@
 #### Components
 
 - ForexCrossRates
+- EconomicCalendar (https://br.tradingview.com/widget/economic-calendar/)
