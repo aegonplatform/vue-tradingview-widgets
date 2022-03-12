@@ -9,6 +9,7 @@
 ### npm package
 Check [here](https://github.com/ehsan-shv/vue-tradingviewWidgets) for all tradingview components. (support Vue3, Nuxt3 and type-safe)
 
+Components:
 - ForexHeatMap
 - ForexCrossRates
 - CryptoMarket
